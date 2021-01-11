@@ -80,7 +80,7 @@
 - [Breadth-first Search](https://www.halildurmus.com/2020/10/04/enine-arama-breadth-first-search/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][website]&nbsp;&nbsp;&nbsp;[<img alt="halildurmus.com" width="50px" src="https://user-images.githubusercontent.com/44526088/104128537-29a8ab00-5379-11eb-9954-d3f9cfd3431d.png" />][website]
+➡️ [more blog posts...][website]&nbsp;&nbsp;&nbsp;[<img align="center" alt="halildurmus.com" width="50px" src="https://user-images.githubusercontent.com/44526088/104128537-29a8ab00-5379-11eb-9954-d3f9cfd3431d.png" />][website]
 
 
 ---
