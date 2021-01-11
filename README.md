@@ -1,4 +1,4 @@
-### Hi there👋, I'm Halil [halildurmus][website] &nbsp;[<img alt="halildurmus.com" width="61px" src="https://user-images.githubusercontent.com/44526088/104128537-29a8ab00-5379-11eb-9954-d3f9cfd3431d.png" />][website]
+### Hi there👋, I'm Halil [halildurmus][website] &nbsp;[<img align="center"  alt="halildurmus.com" width="61px" src="https://user-images.githubusercontent.com/44526088/104128537-29a8ab00-5379-11eb-9954-d3f9cfd3431d.png" />][website]
 
 [![Website](https://img.shields.io/website?label=halildurmus.com&style=for-the-badge&url=https%3A%2F%2Fhalildurmus.com)](https://www.halildurmus.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/halildurmus96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurmus96)
