@@ -29,14 +29,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
-[<img align="left" alt="Python" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
-[<img align="left" alt="OpenCV" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
-[<img align="left" alt="Numpy" width="35px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" />][numpy]
-[<img align="left" alt="Pandas" width="35px" src="https://user-images.githubusercontent.com/66306220/109289059-b5e23500-7836-11eb-965e-c8793e4c40ab.png" />][pandas]
-[<img align="left" alt="Matplotlib" width="35px" src="https://user-images.githubusercontent.com/44526088/104125664-3de4ac00-5369-11eb-897b-c064e3e97e22.png" />][matplotlib]
-[<img align="left" alt="Scikitlearn" width="35px" src="https://user-images.githubusercontent.com/44526088/104125889-98cad300-536a-11eb-8dfe-39235815fa5b.png" />][scikit-learn]
-[<img align="left" alt="Seaborn" width="35px" src="https://user-images.githubusercontent.com/44526088/104125989-2b6b7200-536b-11eb-8f77-75266ad4ac9d.jpg" />][seaborn]
+[<img align="left" alt="Visual Studio Code" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
+[<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
+[<img align="left" alt="OpenCV" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
+[<img align="left" alt="Numpy" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" />][numpy]
+[<img align="left" alt="Pandas" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109290856-35710380-7839-11eb-8c87-dd1614a10d4f.png" />][pandas]
+[<img align="left" alt="Matplotlib" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104125664-3de4ac00-5369-11eb-897b-c064e3e97e22.png" />][matplotlib]
+[<img align="left" alt="Scikitlearn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109291240-c942cf80-7839-11eb-8348-de78a4330acc.png" />][scikit-learn]
+[<img align="left" alt="Seaborn" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104125989-2b6b7200-536b-11eb-8f77-75266ad4ac9d.jpg" />][seaborn]
 [<img align="left" alt="c" width="35px" src="https://user-images.githubusercontent.com/44526088/104126142-f6135400-536b-11eb-89b1-cc0df54be6b8.png" />][website]
 [<img align="left" alt="c++" width="35px" src="https://user-images.githubusercontent.com/44526088/104126246-979aa580-536c-11eb-92dd-f58cc878d414.png" />][cplusplus]
 [<img align="left" alt="OpenGL" width="35px" src="https://user-images.githubusercontent.com/44526088/104126594-8ce11000-536e-11eb-862f-419bf0b5594c.png" />][opengl]
