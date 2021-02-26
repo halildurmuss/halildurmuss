@@ -31,7 +31,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
-[<img align="left" alt="OpenCV" width="35px" src="https://user-images.githubusercontent.com/66306220/109275082-50397d00-7825-11eb-97cb-864be00aa669.png" />][opencv]
+[<img align="left" alt="OpenCV" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
 [<img align="left" alt="Numpy" width="35px" src="https://user-images.githubusercontent.com/44526088/104125159-13ddba80-5366-11eb-8aef-829ed4c49a66.png" />][numpy]
 [<img align="left" alt="Pandas" width="35px" src="https://user-images.githubusercontent.com/44526088/104125582-cadb3580-5368-11eb-97bf-46fa5a03e8d0.png" />][pandas]
 [<img align="left" alt="Matplotlib" width="35px" src="https://user-images.githubusercontent.com/44526088/104125664-3de4ac00-5369-11eb-897b-c064e3e97e22.png" />][matplotlib]
