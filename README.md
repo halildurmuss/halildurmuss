@@ -32,10 +32,10 @@
 [<img align="left" alt="Visual Studio Code" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
 [<img align="left" alt="OpenCV" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
-[<img align="left" alt="Numpy" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" />][numpy]
+[<img align="left" alt="Numpy" height="40px" width="40px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" />][numpy]
 [<img align="left" alt="Pandas" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109290856-35710380-7839-11eb-8c87-dd1614a10d4f.png" />][pandas]
 [<img align="left" alt="Matplotlib" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104125664-3de4ac00-5369-11eb-897b-c064e3e97e22.png" />][matplotlib]
-[<img align="left" alt="Scikitlearn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109291240-c942cf80-7839-11eb-8348-de78a4330acc.png" />][scikit-learn]
+[<img align="left" alt="Scikitlearn" height="45px" width="45px" src="https://user-images.githubusercontent.com/66306220/109291240-c942cf80-7839-11eb-8348-de78a4330acc.png" />][scikit-learn]
 [<img align="left" alt="Seaborn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292108-eaf08680-783a-11eb-98f3-ebe9487b11cf.png" />][seaborn]
 [<img align="left" alt="c" width="35px" src="https://user-images.githubusercontent.com/44526088/104126142-f6135400-536b-11eb-89b1-cc0df54be6b8.png" />][website]
 [<img align="left" alt="c++" width="35px" src="https://user-images.githubusercontent.com/44526088/104126246-979aa580-536c-11eb-92dd-f58cc878d414.png" />][cplusplus]
@@ -44,15 +44,15 @@
 <br />
 <br />
 [<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="JQuery" width="35px" src="https://user-images.githubusercontent.com/44526088/104128047-6921c800-5376-11eb-85c0-46cb24ca88ce.png" />][jquery]
+[<img align="left" alt="JQuery" height="40px" width="40px" src="https://user-images.githubusercontent.com/66306220/109292877-158f0f00-783c-11eb-80e1-be14a3cafd9a.png" />][jquery]
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactjs]
 [<img align="left" alt="Bootstrap" width="35px" src="https://user-images.githubusercontent.com/44526088/104127905-bcdfe180-5375-11eb-89e1-efecea8f1ec9.png" />][getbootstrap]
-[<img align="left" alt="JSON" width="35px" src="https://user-images.githubusercontent.com/44526088/104126689-fd882c80-536e-11eb-86a7-a26441bdd1f8.png" />][json]
+[<img align="left" alt="JSON" width="35px" src="https://user-images.githubusercontent.com/66306220/109292466-7702ae00-783b-11eb-8cbc-21acfa1bc611.png" />][json]
 [<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/66306220/109293415-cd242100-783c-11eb-975b-d0a9f1eefefc.png" />][github]
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][commandline]
 <br />
 <br />
