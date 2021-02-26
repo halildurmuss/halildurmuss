@@ -33,7 +33,7 @@
 [<img align="left" alt="Python" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
 [<img align="left" alt="OpenCV" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
 [<img align="left" alt="Numpy" width="35px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" />][numpy]
-[<img align="left" alt="Pandas" width="35px" src="https://user-images.githubusercontent.com/44526088/104125582-cadb3580-5368-11eb-97bf-46fa5a03e8d0.png" />][pandas]
+[<img align="left" alt="Pandas" width="35px" src="https://user-images.githubusercontent.com/66306220/109289059-b5e23500-7836-11eb-965e-c8793e4c40ab.png" />][pandas]
 [<img align="left" alt="Matplotlib" width="35px" src="https://user-images.githubusercontent.com/44526088/104125664-3de4ac00-5369-11eb-897b-c064e3e97e22.png" />][matplotlib]
 [<img align="left" alt="Scikitlearn" width="35px" src="https://user-images.githubusercontent.com/44526088/104125889-98cad300-536a-11eb-8dfe-39235815fa5b.png" />][scikit-learn]
 [<img align="left" alt="Seaborn" width="35px" src="https://user-images.githubusercontent.com/44526088/104125989-2b6b7200-536b-11eb-8f77-75266ad4ac9d.jpg" />][seaborn]
