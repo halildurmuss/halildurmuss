@@ -73,7 +73,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing](https://www.halildurmus.com/2020/12/28/bulut-bilisim-cloud-computing/)
+- [Sorting Algorithms](https://www.halildurmus.com/2021/02/22/siralama-algoritmalari-sorting-algorithms/)
 - [Depth First Search](https://www.halildurmus.com/2020/12/10/derin-oncelikli-arama-depth-first-search/)
 - [Dijkstra Algorithm](https://www.halildurmus.com/2020/10/26/dijkstra-algoritmasi/)
 - [Bellman-Ford Algorithm](https://www.halildurmus.com/2020/10/10/bellman-ford-algoritmasi/)
