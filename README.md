@@ -51,7 +51,7 @@
 [<img align="left" alt="Bootstrap" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127905-bcdfe180-5375-11eb-89e1-efecea8f1ec9.png" />][getbootstrap]
 [<img align="left" alt="JSON" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292466-7702ae00-783b-11eb-8cbc-21acfa1bc611.png" />][json]
 [<img align="left" alt="Node.js" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="Git" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109758444-a3804680-7bfc-11eb-9620-be33b8f6f2a1.png" />][git]
 [<img align="left" alt="GitHub" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109293415-cd242100-783c-11eb-975b-d0a9f1eefefc.png" />][github]
 [<img align="left" alt="Terminal" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][commandline]
 <br />
