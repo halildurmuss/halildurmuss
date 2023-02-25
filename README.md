@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Halil [halildurmus][website] &nbsp;[<img align="center"  alt="halildurmus.com" width="61px" src="https://user-images.githubusercontent.com/66306220/109294558-6a338980-783e-11eb-8dd3-ebe309cee606.png" />][website]
 
 [![Website](https://img.shields.io/website?label=halildurmus.com&style=for-the-badge&url=https%3A%2F%2Fhalildurmus.com)](https://www.halildurmus.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/halildurmus96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurmus96)
+[![Twitter Follow](https://img.shields.io/twitter/follow/halildurmus96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurrmuss)
 
 ###### I was born in Trabzon in March 1996. I completed high school at Fatih Sultan Mehmet Anatolian High School. I enrolled in Atatürk University Computer Engineering Department in 2015. I graduated from Computer Engineering as of September 2020.
 
@@ -93,9 +93,9 @@
 </details>
 
 [website]: https://www.halildurmus.com/
-[twitter]: https://twitter.com/halildurmus96
+[twitter]: https://twitter.com/halildurrmuss
 [youtube]: https://www.youtube.com/channel/UCaOhjpffGrwL6nrMcPucgig
-[instagram]: https://www.instagram.com/halildurmus96/?hl=tr
+[instagram]: https://www.instagram.com/halildurrmuss/
 [linkedin]: https://www.linkedin.com/in/halil-durmu%C5%9F-2919a1162/
 [webdevplaylist]: https://www.halildurmus.com/
 [jsplaylist]: https://www.halildurmus.com/
