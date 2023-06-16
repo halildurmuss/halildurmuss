@@ -1,15 +1,15 @@
 ### Hi there👋, I'm Halil [halildurmus][website] &nbsp;[<img align="center"  alt="halildurmus.com" width="61px" src="https://user-images.githubusercontent.com/66306220/109294558-6a338980-783e-11eb-8dd3-ebe309cee606.png" />][website]
 
 [![Website](https://img.shields.io/website?label=halildurmus.com&style=for-the-badge&url=https%3A%2F%2Fhalildurmus.com)](https://www.halildurmus.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/halildurmus96?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurrmuss)
+[![Twitter Follow](https://img.shields.io/twitter/follow/halildurrmuss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurrmuss)
 
-###### I was born in Trabzon in March 1996. I completed high school at Fatih Sultan Mehmet Anatolian High School. I enrolled in Atatürk University Computer Engineering Department in 2015. I graduated from Computer Engineering as of September 2020.
+###### I am a graduate of Atatürk University Computer Engineering Department. I am actively working as a software developer on Halkbank's data processing platform. I have attended many conferences, seminars and trainings related to my field. Python, C#, SQL, C, C++, HTML/CSS are fine; Intermediate knowledge of .Net Java programming languages. I can use many platforms such as Visual Studio, VSCode, Pycharm. I have a cold-blooded personality who strives to achieve his goals, has strong communication with people, and keeps up with the group.
+.
 
-- 🔭 I’m currently working on: **Student Automation System**
-- 🌱 I’m currently learning: **React JS**
+- 🔭 I’m currently working on: **Student Information System**
+- 🌱 I’m currently learning: **.Net**
 - 📝 I regularly write articles on [https://www.halildurmus.com/](https://www.halildurmus.com/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚽ Fun fact: I love to play and watch football
 - 📫 How to reach me **info@halildurmus.com**
 
 <!---
@@ -26,9 +26,22 @@
 [<img align="left" alt="halildurmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<!---
 ### Languages and Tools:
+---!>
+<h3>Languages and Tools - Just a few  </h3>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
+<!---
 [<img align="left" alt="Visual Studio Code" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" />][python]
 [<img align="left" alt="OpenCV" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" />][opencv]
@@ -62,6 +75,7 @@
 [<img align="left" alt="MongoDB" width="35px" src="https://user-images.githubusercontent.com/66306220/109296478-66553680-7841-11eb-9eab-a6063f634266.png" />][mongodb]
 <br />
 
+
 ### Embedded Software Development:
 [<img align="left" alt="RaspberryPi" width="35px" src="https://user-images.githubusercontent.com/44526088/104127459-34604180-5373-11eb-8f77-bd0d01294f33.png" />][raspberrypi]
 [<img align="left" alt="Ardunio" width="35px" src="https://user-images.githubusercontent.com/44526088/104127504-7a1d0a00-5373-11eb-99f5-32b087e6b7a1.png" />][arduino]
@@ -69,7 +83,7 @@
 <br />
 
 ---------------
-
+-->
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -81,16 +95,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]&nbsp;&nbsp;&nbsp;[<img align="center" alt="halildurmus.com" width="50px" src="https://user-images.githubusercontent.com/66306220/109294558-6a338980-783e-11eb-8dd3-ebe309cee606.png" />][website]
-
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="halildurmuss's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=halildurmuss&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.halildurmus.com/
 [twitter]: https://twitter.com/halildurrmuss
