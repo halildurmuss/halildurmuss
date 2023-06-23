@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=halildurmus.com&style=for-the-badge&url=https%3A%2F%2Fhalildurmus.com)](https://www.halildurmus.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/halildurrmuss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=halildurrmuss)
 
-###### I am a graduate of Atatürk University Computer Engineering Department. I am actively working as a software developer on Halkbank's data processing platform. I have attended many conferences, seminars and trainings related to my field. Python, C#, SQL, C, C++, HTML/CSS are fine; Intermediate knowledge of .Net Java programming languages. I can use many platforms such as Visual Studio, VSCode, Pycharm. I have a cold-blooded personality who strives to achieve his goals, has strong communication with people, and keeps up with the group.
+###### I am a graduate of Atatürk University Computer Engineering Department. I am working as a software developer in a private company. I have attended many conferences, seminars and trainings related to my field. Python, C#, SQL, C, C++, HTML/CSS are fine; Intermediate knowledge of .Net Java programming languages. I can use many platforms such as Visual Studio, VSCode, Pycharm. I have a cold-blooded personality who strives to achieve his goals, has strong communication with people, and keeps up with the group.
 .
 
 - 🔭 I’m currently working on: **Student Information System**
